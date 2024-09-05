@@ -6,7 +6,11 @@
 
    https://md5-calculator.software.informer.com/download/
 
-2. Install Aplikasi **MD5 Calculator**
+2. Download .NET SKD 2.0 juga pada link berikut:
+
+   https://www.microsoft.com/en-us/download/details.aspx?id=6041
+
+3. Install Aplikasi **MD5 Calculator**
 
    🔵 Extract File yang sdh didownload
 
@@ -16,16 +20,24 @@
 
    ![image](https://github.com/user-attachments/assets/f13e2e46-9116-41ef-92ba-8b30766a58b1)
 
-   🔵 Klik Yes
+   🔵 Klik **Next**
 
-   ![image](https://github.com/user-attachments/assets/f9049506-6cac-43d1-b09b-34645e922a6e)
+   ![image](https://github.com/user-attachments/assets/9587524a-0640-4f33-bcbb-e1f619e4ceae)
 
-   🔵 Klik Download
+   🔵 Klik **Next**
 
-   ![image](https://github.com/user-attachments/assets/8e3e9b58-5a0e-48f9-a2fe-690b50e4a846)
+   ![image](https://github.com/user-attachments/assets/cb1761e5-3e7b-4b8c-92cf-61895e2cbee5)
 
-   🔵 Klik Download .NET SKD x64
+   🔵 Klik **Next**
 
-   ![image](https://github.com/user-attachments/assets/94fd5914-bde2-4c78-ab3f-5afc7151d760)
+   ![image](https://github.com/user-attachments/assets/83724120-ea18-4f90-8ff6-5e0564d6b2bc)
 
-   🔵 Kemudian Install, Setelah selesai buka lagi file MD5 Calculator
+   🔵 Installasi Selesai, Klik **Close**
+
+   ![image](https://github.com/user-attachments/assets/bfb2477b-cda2-4dc8-b712-164b4b1f496b)
+
+4. Buka Aplikasi **MD5 Calculator.exe**
+
+   🔵 Masukan File yang ingin dicari, Kemudian Klik **Calculate**
+
+   ![image](https://github.com/user-attachments/assets/b6aa2561-d1f9-4609-9497-f27c5038e032)
